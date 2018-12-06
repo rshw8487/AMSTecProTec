@@ -1,0 +1,35 @@
+{
+  "ecmaVersion": 5,
+  "plugins": {
+    "guess-types": {
+      
+    },
+    "outline": {
+      
+    },
+    "jasmine": {
+      
+    },
+    "node": {
+      
+    },
+    "lint": {
+      
+    },
+    "angular1": {
+      
+    },
+    "browser-extension": {
+      
+    },
+    "protractor": {
+      
+    },
+    "node-extension": {
+      
+    }
+  },
+  "libs": [
+    "browser"
+  ]
+}
